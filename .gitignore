@@ -1,0 +1,17 @@
+# Dataset images
+train/
+test/
+
+# Modèles PyTorch
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
